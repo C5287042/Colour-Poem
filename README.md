@@ -1,2 +1,6 @@
 # Colour-Poem
-Repo of colours added in the poem
+
+green
+yellow
+orange
+colours in the poem
